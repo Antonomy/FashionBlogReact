@@ -4,7 +4,7 @@ export default function BlogPost2() {
             <article class="blog-post">
                 <time datetime="2020-11-11">11/11/20</time>
                 <h2 class="post-title">Vintage in Vogue</h2>
-                <img src="public/blog-image-2.jpg" alt="Blog 2 Image" />
+                <img src="/blog-image-2.jpg" alt="Blog 2 Image" />
                 <p class="post-text">Selfies sunt, dolor sit amet consectetur adipisicing elit. Repellat quidem deserunt
                     nemo dignissimos fuga veniam inventore eligendi magnam aperiam odit mollitia cupiditate eveniet velit
                     officiis magni aliquid, laborum dolor? Quasi? Veniam amet rerum ducimus est ea at neque alias.
