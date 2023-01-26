@@ -54,6 +54,7 @@ REACT app based off of Figma design files
 ### Built With
 
 * REACT
+* CSS
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
