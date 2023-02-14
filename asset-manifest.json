@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FashionBlogReact/static/css/main.316240de.css",
+    "main.js": "/FashionBlogReact/static/js/main.4e9e5b07.js",
+    "index.html": "/FashionBlogReact/index.html",
+    "main.316240de.css.map": "/FashionBlogReact/static/css/main.316240de.css.map",
+    "main.4e9e5b07.js.map": "/FashionBlogReact/static/js/main.4e9e5b07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.316240de.css",
+    "static/js/main.4e9e5b07.js"
+  ]
+}
